@@ -1,6 +1,8 @@
 ﻿using AbstractFactory;
 using Decorator;
+using DifficultLibrary;
 using FabricMethod;
+using FacadeObject;
 using Singleton;
 using System;
 using System.Collections.Generic;
@@ -18,6 +20,7 @@ namespace Patterns
             FabricMethodTest();
             TestSingleton();
             TestingDecorator();
+            FacadeTest();
 
             Console.ReadKey();
         }
@@ -97,6 +100,18 @@ namespace Patterns
             var ingredient2 = new IngredientMartini(ingredient1);
             ingredient2.VolumeMilliliters = 500;
             ingredient2.Mix();
+
+            Console.WriteLine();
+            Console.WriteLine();
+        }
+
+        private static void FacadeTest()
+        {
+            Console.WriteLine("Test facade");
+            var obj1 = new DifficultObjectA();
+            var obj2 = new DifficultObjectB();
+            var facade = new Facade(obj1, obj2);
+            facade.Operate();
 
             Console.WriteLine();
             Console.WriteLine();

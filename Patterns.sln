@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{2A54638B-7640-466C-BC42-7CCA89274284}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifficultLibrary", "DifficultLibrary\DifficultLibrary.csproj", "{BF7D3635-D9DA-41D2-9BAE-8772180B5879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "FacadeObject\Facade.csproj", "{5B564DE9-7A58-4730-8D3C-EC464D574905}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{2A54638B-7640-466C-BC42-7CCA89274284}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A54638B-7640-466C-BC42-7CCA89274284}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A54638B-7640-466C-BC42-7CCA89274284}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF7D3635-D9DA-41D2-9BAE-8772180B5879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF7D3635-D9DA-41D2-9BAE-8772180B5879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF7D3635-D9DA-41D2-9BAE-8772180B5879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF7D3635-D9DA-41D2-9BAE-8772180B5879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B564DE9-7A58-4730-8D3C-EC464D574905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B564DE9-7A58-4730-8D3C-EC464D574905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B564DE9-7A58-4730-8D3C-EC464D574905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B564DE9-7A58-4730-8D3C-EC464D574905}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

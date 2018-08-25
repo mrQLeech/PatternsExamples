@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE4FAC3D-830D-4C90-BBE5-EACE428C09E4}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>Patterns</RootNamespace>
-    <AssemblyName>Patterns</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <ProjectGuid>{5B564DE9-7A58-4730-8D3C-EC464D574905}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Facade</RootNamespace>
+    <AssemblyName>Facade</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -42,36 +45,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Facade.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AbstractLibrary\AbstractFactory.csproj">
-      <Project>{10a9c006-e320-476e-ae5c-f22082752f05}</Project>
-      <Name>AbstractFactory</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Decorator\Decorator.csproj">
-      <Project>{2a54638b-7640-466c-bc42-7cca89274284}</Project>
-      <Name>Decorator</Name>
-    </ProjectReference>
     <ProjectReference Include="..\DifficultLibrary\DifficultLibrary.csproj">
       <Project>{bf7d3635-d9da-41d2-9bae-8772180b5879}</Project>
       <Name>DifficultLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\FabricMethod\FabricMethod.csproj">
-      <Project>{064e3b49-644f-4274-96e9-9ac7035cf3a8}</Project>
-      <Name>FabricMethod</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\FacadeObject\Facade.csproj">
-      <Project>{5b564de9-7a58-4730-8d3c-ec464d574905}</Project>
-      <Name>Facade</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Singleton\Singleton.csproj">
-      <Project>{fecdce5a-417b-4505-ab85-1610090ba6b1}</Project>
-      <Name>Singleton</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
