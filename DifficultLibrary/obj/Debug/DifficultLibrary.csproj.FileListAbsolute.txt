@@ -1,0 +1,6 @@
+C:\Users\QL\Documents\Visual Studio 2017\Projects\Patterns\DifficultLibrary\bin\Debug\DifficultLibrary.dll.config
+C:\Users\QL\Documents\Visual Studio 2017\Projects\Patterns\DifficultLibrary\bin\Debug\DifficultLibrary.dll
+C:\Users\QL\Documents\Visual Studio 2017\Projects\Patterns\DifficultLibrary\bin\Debug\DifficultLibrary.pdb
+C:\Users\QL\Documents\Visual Studio 2017\Projects\Patterns\DifficultLibrary\obj\Debug\DifficultLibrary.csprojResolveAssemblyReference.cache
+C:\Users\QL\Documents\Visual Studio 2017\Projects\Patterns\DifficultLibrary\obj\Debug\DifficultLibrary.dll
+C:\Users\QL\Documents\Visual Studio 2017\Projects\Patterns\DifficultLibrary\obj\Debug\DifficultLibrary.pdb

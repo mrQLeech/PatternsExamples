@@ -1,0 +1,5 @@
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Proxy\bin\Debug\Proxy.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Proxy\bin\Debug\Proxy.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Proxy\obj\Debug\Proxy.csprojResolveAssemblyReference.cache
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Proxy\obj\Debug\Proxy.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Proxy\obj\Debug\Proxy.pdb

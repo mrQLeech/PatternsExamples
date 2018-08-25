@@ -3,6 +3,7 @@ using Decorator;
 using DifficultLibrary;
 using FabricMethod;
 using FacadeObject;
+using Proxy;
 using Singleton;
 using System;
 using System.Collections.Generic;
@@ -21,6 +22,7 @@ namespace Patterns
             TestSingleton();
             TestingDecorator();
             FacadeTest();
+            ProxyTest();
 
             Console.ReadKey();
         }
@@ -112,6 +114,23 @@ namespace Patterns
             var obj2 = new DifficultObjectB();
             var facade = new Facade(obj1, obj2);
             facade.Operate();
+
+            Console.WriteLine();
+            Console.WriteLine();
+        }
+
+        private static void ProxyTest()
+        {
+            Console.WriteLine("Test proxy");
+            Console.WriteLine("Test real object");
+            var realObj = new RealRoleManager();
+            var client = new Client(realObj);
+
+            Console.WriteLine();
+            Console.WriteLine("Test proxy object");
+
+            var proxyObj = new ProxyRoleManager();
+            client = new Client(proxyObj);
 
             Console.WriteLine();
             Console.WriteLine();

@@ -12,3 +12,11 @@ C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Si
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Singleton.pdb
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Decorator.dll
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Decorator.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\DifficultLibrary.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Facade.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\DifficultLibrary.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\DifficultLibrary.dll.config
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Facade.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Facade.dll.config
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Proxy.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Proxy.pdb

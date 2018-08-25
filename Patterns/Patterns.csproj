@@ -69,6 +69,10 @@
       <Project>{5b564de9-7a58-4730-8d3c-ec464d574905}</Project>
       <Name>Facade</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Proxy\Proxy.csproj">
+      <Project>{8617ba37-cbce-441f-a84c-ed07d3e0d623}</Project>
+      <Name>Proxy</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Singleton\Singleton.csproj">
       <Project>{fecdce5a-417b-4505-ab85-1610090ba6b1}</Project>
       <Name>Singleton</Name>
