@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns", "Patterns\Patterns.csproj", "{EE4FAC3D-830D-4C90-BBE5-EACE428C09E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractLibrary\AbstractFactory.csproj", "{10A9C006-E320-476E-AE5C-F22082752F05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricMethod", "FabricMethod\FabricMethod.csproj", "{064E3B49-644F-4274-96E9-9AC7035CF3A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{FECDCE5A-417B-4505-AB85-1610090BA6B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{2A54638B-7640-466C-BC42-7CCA89274284}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE4FAC3D-830D-4C90-BBE5-EACE428C09E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE4FAC3D-830D-4C90-BBE5-EACE428C09E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE4FAC3D-830D-4C90-BBE5-EACE428C09E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE4FAC3D-830D-4C90-BBE5-EACE428C09E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10A9C006-E320-476E-AE5C-F22082752F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10A9C006-E320-476E-AE5C-F22082752F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10A9C006-E320-476E-AE5C-F22082752F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10A9C006-E320-476E-AE5C-F22082752F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{064E3B49-644F-4274-96E9-9AC7035CF3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{064E3B49-644F-4274-96E9-9AC7035CF3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{064E3B49-644F-4274-96E9-9AC7035CF3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{064E3B49-644F-4274-96E9-9AC7035CF3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FECDCE5A-417B-4505-AB85-1610090BA6B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECDCE5A-417B-4505-AB85-1610090BA6B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECDCE5A-417B-4505-AB85-1610090BA6B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECDCE5A-417B-4505-AB85-1610090BA6B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A54638B-7640-466C-BC42-7CCA89274284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A54638B-7640-466C-BC42-7CCA89274284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A54638B-7640-466C-BC42-7CCA89274284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A54638B-7640-466C-BC42-7CCA89274284}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

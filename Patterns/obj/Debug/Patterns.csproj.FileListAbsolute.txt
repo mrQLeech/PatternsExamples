@@ -1,0 +1,14 @@
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Patterns.exe.config
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Patterns.exe
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Patterns.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\AbstractFactory.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\AbstractFactory.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\obj\Debug\Patterns.csprojResolveAssemblyReference.cache
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\obj\Debug\Patterns.exe
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\obj\Debug\Patterns.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\FabricMethod.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\FabricMethod.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Singleton.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Singleton.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Decorator.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Decorator.pdb
