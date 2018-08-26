@@ -20,3 +20,5 @@ C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Fa
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Facade.dll.config
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Proxy.dll
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Proxy.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Command.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\Command.pdb

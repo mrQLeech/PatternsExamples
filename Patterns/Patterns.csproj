@@ -53,6 +53,10 @@
       <Project>{10a9c006-e320-476e-ae5c-f22082752f05}</Project>
       <Name>AbstractFactory</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Command\Command.csproj">
+      <Project>{df1a8cbe-335d-4f3d-bae5-3f79f0f9f6ac}</Project>
+      <Name>Command</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Decorator\Decorator.csproj">
       <Project>{2a54638b-7640-466c-bc42-7cca89274284}</Project>
       <Name>Decorator</Name>

@@ -1,4 +1,5 @@
 ﻿using AbstractFactory;
+using Command;
 using Decorator;
 using DifficultLibrary;
 using FabricMethod;
@@ -23,6 +24,7 @@ namespace Patterns
             TestingDecorator();
             FacadeTest();
             ProxyTest();
+            CommandTest();
 
             Console.ReadKey();
         }
@@ -132,6 +134,18 @@ namespace Patterns
             var proxyObj = new ProxyRoleManager();
             client = new Client(proxyObj);
 
+            Console.WriteLine();
+            Console.WriteLine();
+        }
+
+
+        private static void CommandTest()
+        {
+            Console.WriteLine("Test command");
+            var invoker = new Invoker();
+            invoker.SetPrepareOperation(new Executor("parameter_1"));
+            invoker.SetCompleteOperation(new DifficultExecutor("parameter_1", "parameter_2"));
+            invoker.Operate();
             Console.WriteLine();
             Console.WriteLine();
         }
