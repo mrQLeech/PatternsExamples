@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIterator", "Iterator\MyIt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverExample", "ObserverExample\ObserverExample.csproj", "{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateExample", "StateExample\StateExample.csproj", "{83105C2C-D159-485F-9661-67E6E3A4F760}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83105C2C-D159-485F-9661-67E6E3A4F760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83105C2C-D159-485F-9661-67E6E3A4F760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83105C2C-D159-485F-9661-67E6E3A4F760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83105C2C-D159-485F-9661-67E6E3A4F760}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

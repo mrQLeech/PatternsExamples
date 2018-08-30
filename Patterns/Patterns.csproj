@@ -89,6 +89,10 @@
       <Project>{fecdce5a-417b-4505-ab85-1610090ba6b1}</Project>
       <Name>Singleton</Name>
     </ProjectReference>
+    <ProjectReference Include="..\StateExample\StateExample.csproj">
+      <Project>{83105c2c-d159-485f-9661-67e6e3a4f760}</Project>
+      <Name>StateExample</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

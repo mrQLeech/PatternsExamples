@@ -26,3 +26,5 @@ C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\My
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\ObserverExample.dll
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\MyIterator.pdb
 C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\ObserverExample.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\StateExample.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\Patterns\bin\Debug\StateExample.pdb

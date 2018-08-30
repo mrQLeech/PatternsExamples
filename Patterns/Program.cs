@@ -8,6 +8,7 @@ using MyIterator;
 using ObserverExample;
 using Proxy;
 using Singleton;
+using StateExample;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,8 +30,16 @@ namespace Patterns
             CommandTest();
             IteratorTest();
             ObserverTest();
+            StateTest();
 
             Console.ReadKey();
+        }
+
+        private static void StateTest()
+        {
+            Console.WriteLine("Testing State");
+            StateClient.ClientCode();
+
         }
 
         private static void ObserverTest()
