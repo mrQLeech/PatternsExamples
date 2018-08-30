@@ -4,6 +4,8 @@ using Decorator;
 using DifficultLibrary;
 using FabricMethod;
 using FacadeObject;
+using MyIterator;
+using ObserverExample;
 using Proxy;
 using Singleton;
 using System;
@@ -25,11 +27,30 @@ namespace Patterns
             FacadeTest();
             ProxyTest();
             CommandTest();
+            IteratorTest();
+            ObserverTest();
 
             Console.ReadKey();
         }
 
-        
+        private static void ObserverTest()
+        {
+            Console.WriteLine("Testing Observer");
+            ObserverClient.ClientCode();
+            Console.WriteLine();
+            Console.WriteLine();
+        }
+
+        private static void IteratorTest()
+        {
+            Console.WriteLine("Testing Iterator");
+            
+            var client = new IteratorClient();
+            client.ClientCode();
+
+            Console.WriteLine();
+            Console.WriteLine();
+        }
 
         private static void FactoryTest()
         {

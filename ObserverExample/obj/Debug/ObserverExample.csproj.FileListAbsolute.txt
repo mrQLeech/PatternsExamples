@@ -1,0 +1,5 @@
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\ObserverExample\bin\Debug\ObserverExample.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\ObserverExample\bin\Debug\ObserverExample.pdb
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\ObserverExample\obj\Debug\ObserverExample.csprojResolveAssemblyReference.cache
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\ObserverExample\obj\Debug\ObserverExample.dll
+C:\Users\QL\documents\visual studio 2017\Projects\Patterns\ObserverExample\obj\Debug\ObserverExample.pdb

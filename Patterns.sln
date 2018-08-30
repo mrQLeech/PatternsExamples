@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{DF1A8CBE-335D-4F3D-BAE5-3F79F0F9F6AC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyIterator", "Iterator\MyIterator.csproj", "{492E2440-4BCD-45CA-A2BB-48448C6E83EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverExample", "ObserverExample\ObserverExample.csproj", "{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{DF1A8CBE-335D-4F3D-BAE5-3F79F0F9F6AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF1A8CBE-335D-4F3D-BAE5-3F79F0F9F6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF1A8CBE-335D-4F3D-BAE5-3F79F0F9F6AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492E2440-4BCD-45CA-A2BB-48448C6E83EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492E2440-4BCD-45CA-A2BB-48448C6E83EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492E2440-4BCD-45CA-A2BB-48448C6E83EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492E2440-4BCD-45CA-A2BB-48448C6E83EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F474CFC-7DF6-4977-BFCF-D2366AD23C0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -73,6 +73,14 @@
       <Project>{5b564de9-7a58-4730-8d3c-ec464d574905}</Project>
       <Name>Facade</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Iterator\MyIterator.csproj">
+      <Project>{492e2440-4bcd-45ca-a2bb-48448c6e83ef}</Project>
+      <Name>MyIterator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ObserverExample\ObserverExample.csproj">
+      <Project>{1f474cfc-7df6-4977-bfcf-d2366ad23c0f}</Project>
+      <Name>ObserverExample</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Proxy\Proxy.csproj">
       <Project>{8617ba37-cbce-441f-a84c-ed07d3e0d623}</Project>
       <Name>Proxy</Name>
